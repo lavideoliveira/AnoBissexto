@@ -1,4 +1,4 @@
-Alunas: Lavinia, Leticia e Rafaela
+Alunas: Lavinia, Leticia, Rafaela, Fernanda e Maria Fernanda
 
 LINK: http://dojopuzzles.com/problemas/exibe/ano-bissexto/
 
